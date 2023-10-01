@@ -1,7 +1,7 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Prachi Patel"
+subtitle: Aspiring Data Scientist
+description:  <h3>Bio</h3> Dynamic and proactive individual seeking for challenging opportunities in area of Data Science. Eager to contribute to the team project with my knowledge in Machine learning, Python and R coding skills. A person who strongly believes in making a difference in society with the help of technology.<br> <h3>Education</h3>  <h4>St.Clair College | Windsor, CAN </h4> Hello and welcome! Inside you’ll find many of my projects, including more data science and machine learning content using both R and Python. Here, you will find more about the project and blog that I have done in python and R.
 images:
   - img/revoir.jpg
 image_left: true
@@ -14,5 +14,4 @@ action_type: text # text, button
 type: home
 ---
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
+\*\* index doesn't contain a body, just front matter above. See index.html in the layouts folder \*\*
